@@ -1,5 +1,5 @@
 ---
-title: Project 2 – API Concept (My Role: Design)
+title: "Project 2 – API Concept (My Role: Design)"
 date: 2026-02-25
 layout: layouts/post.njk
 ---
