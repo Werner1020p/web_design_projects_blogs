@@ -8,20 +8,18 @@ const numberOfLatestPostsToShow = 3;
 ---
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<p>Welcome to my media blog where I write about film, creativity, and projects I’m working on.</p>
+<p>Welcome to my Media Blog where I will be writing about the projects I am working on.</p>
 <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 
+<p style="margin-top: 16px;">
+  <a class="view-all" href="{{ '/blog/' | url }}">→ View all posts</a>
+</p>
+
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 
-{# List every content page in the project #}
 {#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
 #}
