@@ -14,21 +14,17 @@ Our website includes a home page, an about page, a form page, and individual alb
 
 ## My Contribution
 
-My main contribution to this project was working on the visual design and layout of the website. I focused mostly on the `styles.css` file and helped improve how the pages looked and how the content was organized.
+My main contribution to this project was working on the visual design and layout of the website. I focused mostly on the styles.css file and helped improve how the pages looked and how the content was organized.
 
 I worked on the colors, spacing, typography, footer styling, album page layout, and general visual consistency. I wanted the website to feel more polished and more connected as one full project instead of separate pages with different styles.
 
-I also helped improve the structure of some of the `.njk` files so the styling could work better across the pages.
+I also helped improve the structure of some of the .njk files so the styling could work better across the pages.
 
 ## Files I Worked On
 
-These are the main files I worked on:
+These are the main files I worked on in order to keep everything connected nice and clean. So the style doesnt overlap with each other 
 
-- `public/styles.css`
-- `views/nav.njk`
-- `views/about.njk`
-- `views/album.njk`
-- `views/footer.njk`
+- public/styles.css - views/nav.njk - views/about.njk - views/album.njk - views/footer.njk
 
 ## What I Changed
 
