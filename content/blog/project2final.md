@@ -1,8 +1,9 @@
 ---
-title: "Project 2 Fial Documentation
+title: "Project 2 Final Documentation"
 date: 2026-03-25
 layout: layouts/post.njk
 ---
+
 # Project 2 Documentation
 
 ## Project Summary
@@ -40,6 +41,6 @@ One challenge I worked through was keeping the album covers displayed at the top
 ## Links
 
 - GitHub Code: https://github.com/portorfolio/wdp-project-2
-- Live Website: http://138.197.34.162:7001
-JS Library Used: [Motion.Js GSAP](https://motion.dev/)
-Group Members Blog Posts: [Ivy](https://portorfolio.github.io/blog/blog/project2final/), [Jorge](https://jorgevin74.github.io/web-design-blog/blog/project-2-final/)
+- Live Website: http://138.197.34.162:7001 JS Library 
+- Used: [Motion.Js GSAP](https://motion.dev/)
+- Group Members Blog Posts: [Ivy](https://portorfolio.github.io/blog/blog/project2final/), [Jorge](https://jorgevin74.github.io/web-design-blog/blog/project-2-final/)
