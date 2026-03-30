@@ -52,7 +52,7 @@ These wireframes help define:
 ## Next Steps
 
 - Finalize UI visuals in Figma based on initial wireframes
-- Work with the developer teammate to integrate the JSON dataset
+- Work with the developer teammates to integrate the JSON dataset
 - Implement front-end templates and interactions using HTML, CSS, and JavaScript
 
 ---
