@@ -97,5 +97,8 @@ My role in this project is **backend**. I will focus on helping build the server
 Since the project depends on user uploads, page rendering, and possibly storing text/image content, the backend will be important for making the site actually function as a communication system and not just a visual mockup.
 
 ## Links 
-Scott is holding the concept of our project as well. [Scott Blog](https://legenddoros.github.io/web-design-blog-legend/blog/project3prop/)
+Scott is holding the concept of our project as well. 
+
+[Scott Blog](https://legenddoros.github.io/web-design-blog-legend/blog/project3prop/)
+
 Our Ideas on [Figma](https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=13-5&t=djGHhrrnnUY8gNIx-0)
