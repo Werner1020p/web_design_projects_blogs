@@ -1,11 +1,11 @@
 ---
-title: "Project 3 Final - UTOPIAt"
+title: "Project 3 Final - UTOPIA"
 date: 2026-05-20
 layout: layouts/post.njk
 ---
 
 For this final project, my group and I reached the conclusion that we wanted to bring to life a project we named UTOPIA. That idea led us to develop [**Utopia Network**](http://157.245.213.253:3000/) a site composed of two opposing worlds: Heaven and Hell.
-One of our primary references was [**Blackout**](https://tilde.town/~kc/blackout/) on *tilde.town*. That site suggested to us the idea that language can be perceived as something playful, interactive, and visual, rather than being presented as a conventional paragraph. It also served as inspiration for our subsequent "Word Bank" concept—or "refrigerator magnet poetry"—in which users can compose short phrases directly onto the canvas.
+One of our primary references was [**Blackout**](https://tilde.town/~kc/blackout/) on *tilde.town*. That site suggested to us the idea that language can be perceived as something playful, interactive, and visual, rather than being presented as a conventional paragraph. It also served as inspiration for our subsequent "Word Bank" concept or "refrigerator magnet poetry" in which users can compose short phrases directly onto the canvas.
 
 We also utilized our Figma board to plan the layout, atmosphere, and structure of the site before we began coding. We found this tool to be fundamental for organizing the homepage, the Heaven and Hell sections, the sidebars, the image archive, and the overall user experience flow.
 
