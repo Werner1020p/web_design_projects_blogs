@@ -13,9 +13,9 @@ My classmates also possess the other resources we utilize in order to bring this
 
 Links:
 
-[Scott Blog](https://legenddoros.github.io/web-design-blog-legend/blog/final/)
-[Shasuna Blog](https://shasunal.github.io/shasunagarden/)
-[Daniel Blog]
-[Our Figma Site](https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=0-1&p=f&t=m4ENTzRozdGF1nQ9-0)
-[GitHub Repository](https://github.com/legenddoros/utopia-project-3)
- [EZGIG for turning recordings into GIFs](https://ezgif.com/)
+-[Scott Blog](https://legenddoros.github.io/web-design-blog-legend/blog/final/)
+-[Shasuna Blog](https://shasunal.github.io/shasunagarden/)
+-[Daniel Blog]
+-[Our Figma Site](https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=0-1&p=f&t=m4ENTzRozdGF1nQ9-0)
+-[GitHub Repository](https://github.com/legenddoros/utopia-project-3)
+-[EZGIG for turning recordings into GIFs](https://ezgif.com/)
