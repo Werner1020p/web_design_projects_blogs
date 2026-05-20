@@ -11,11 +11,14 @@ We also utilized our Figma board to plan the layout, atmosphere, and structure o
 
 My classmates also possess the other resources we utilize in order to bring this idea of ​​ours to life and make the project work.
 
-Links:
+## My Contribution: 
+For this project, my primary contribution consisted of helping to develop and organize the website's interactive elements. I worked on enhancing the "Heaven" and "Hell" pages, assisting my classmates in refining the design as we progressed through the project, adding new features and improving small details, such as buttons and the overall user experience. I collaborated on the implementation and fine tuning of functionalities, including the "About" button and its modal window, the "Word Bank," the "Erase Selected" button, and the placement of the audio button, with the aim of giving the interface a cleaner, more organized appearance. Another part of my contribution involved deploying the project to a DigitalOcean *droplet* and maintaining its operational status; in order for me and my group to have a functional online version available to share with the professor and the rest of the class. In conclusion, my role focused on ensuring that the project ran smoothly, presented a polished finish, and was accessible on the web.
+
+## Links:
 
 - [Scott Blog](https://legenddoros.github.io/web-design-blog-legend/blog/final/)
 - [Shasuna Blog](https://shasunal.github.io/shasunagarden/)
-- [Daniel Blog]
+- [Daniel Blog](https://danielologunleko.github.io/webdesign-blog-1/blog/project_3_final/)
 - [Our Figma Site](https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Project3?node-id=0-1&p=f&t=m4ENTzRozdGF1nQ9-0)
 - [GitHub Repository](https://github.com/legenddoros/utopia-project-3)
 - [EZGIG for turning recordings into GIFs](https://ezgif.com/)
